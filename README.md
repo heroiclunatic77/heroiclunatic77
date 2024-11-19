@@ -1,4 +1,4 @@
-## Hi there 👋 animat-campfire-color.gif
+## Hi there 👋 
 
 I'm **Hrishikesh Keswani**, a Data Science and AI enthusiast! 🌟
 
