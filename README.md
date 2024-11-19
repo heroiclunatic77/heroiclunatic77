@@ -1,5 +1,5 @@
 ## Data Science and AI enthusiast! 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hrishikesh-keswani-0291b6181/) [Hugging Face](https://huggingface.co/heroiclunatic) 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hrishikesh-keswani-0291b6181/)              [Hugging Face](https://huggingface.co/heroiclunatic) 
 
 # 👋 Hello there! I'm Hrishikesh Keswani
 
