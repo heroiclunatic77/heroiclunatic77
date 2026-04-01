@@ -4,7 +4,7 @@ Uploaded models: [Hugging Face](https://huggingface.co/heroiclunatic)
 
 # 👋 Hello there! I'm Hrishikesh Keswani
 
-🎓 Master’s student in Data Analytics Engineering at Northeastern University
+🎓 Master’s graduate in Data Analytics Engineering from Northeastern University
 
 💻 Passionate about data science, machine learning, and AI
 
